@@ -1,23 +1,18 @@
-variable "ami" {}
-
-
-    variable "instance_type" {}
+ variable "ami" {}
+  variable "instance_type" {}
     
-    variable "keyname" {}
-  
-    variable "Name" {}
+ variable "keyname" {}
+ variable "Name" {}
 
-    variable "subnet_id" {}
+ variable "subnet_id" {}
     
-    variable "Env" {}
+ variable "Env" {}
  
-    variable "Dept" {}
+ variable "Dept" {}
+ variable "Created_by" {}
+ variable "count" {}
 
-    variable "Created_by" {}
+  variable "min_size" {}
 
-    variable "count" {}
-
-    variable "min_size" {}
-
-    variable "max_size" {}
+  variable "max_size" {}
 
