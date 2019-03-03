@@ -7,4 +7,6 @@
     Created_by                  =  "Akmal"
     Dept                        = "IT"
     Count                       =  1
+    min_size                    =  3
+    max_size                    =  6
 
