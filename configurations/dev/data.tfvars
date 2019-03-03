@@ -3,4 +3,8 @@
     keyname                     =  "testkey"
     Name                        =  "Consul"
     subnet_id                   =  "subnet-1d67ca47"
+    Env                         =  "Dev"
+    Created_by                  =  "Akmal"
+    Dept                        = "IT"
+    Count                       =  1
 
